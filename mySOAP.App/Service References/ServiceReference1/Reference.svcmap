@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f2be2c8b-06b5-4a0e-85d6-8ba066c493f1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:57945/DistributorService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DistributorService.xsd" MetadataType="Schema" ID="86015f28-1583-41f5-9e72-16157e4643d8" SourceId="1" SourceUrl="http://localhost:57945/DistributorService.svc?xsd=xsd0" />
+    <MetadataFile FileName="DistributorService1.xsd" MetadataType="Schema" ID="a5700b41-f668-4e6a-b219-9c5874aba425" SourceId="1" SourceUrl="http://localhost:57945/DistributorService.svc?xsd=xsd1" />
+    <MetadataFile FileName="DistributorService2.xsd" MetadataType="Schema" ID="ca490fad-22c7-462c-af5c-40856c097a14" SourceId="1" SourceUrl="http://localhost:57945/DistributorService.svc?xsd=xsd2" />
+    <MetadataFile FileName="DistributorService3.xsd" MetadataType="Schema" ID="188222cc-7985-4b96-9134-9508a9ed3494" SourceId="1" SourceUrl="http://localhost:57945/DistributorService.svc?xsd=xsd3" />
+    <MetadataFile FileName="DistributorService.disco" MetadataType="Disco" ID="d9555001-645a-4b37-a3e7-0327a15d7f68" SourceId="1" SourceUrl="http://localhost:57945/DistributorService.svc?disco" />
+    <MetadataFile FileName="DistributorService4.xsd" MetadataType="Schema" ID="2953f372-2740-43eb-9152-2fa54ef6047d" SourceId="1" SourceUrl="http://localhost:57945/DistributorService.svc?xsd=xsd4" />
+    <MetadataFile FileName="DistributorService.wsdl" MetadataType="Wsdl" ID="5023ff9e-4b23-4937-aa22-c241ceb9d4ed" SourceId="1" SourceUrl="http://localhost:57945/DistributorService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
